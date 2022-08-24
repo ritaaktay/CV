@@ -69,7 +69,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+That in some arguable way make you a better software developer or well-rounded person.
 Blog https://medium.com/@rita.aktay 
 
 ## Hobbies
