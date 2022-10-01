@@ -38,17 +38,6 @@ _Curatorial Fellow_
 
 ## Skills
 
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
 #### Innovation
 
 - I have the courage to approach any problem through a lense of practical innovation, and can follow through to overcome challenges during implementation. Curating a digital exhibition for the Britihs Council, I diverged from the pervasive OVR (Online Viewing Room) model and designed an interactive platform based on the tag & filter systems of retial websites. Under my leadership, our team of artistic advisors and digital designers were able to problem-solve each hurdle in producing a custom made platform. 
