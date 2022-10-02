@@ -1,6 +1,6 @@
 ## Rita Aktay
 
-A driven, fast-learning and multifaceted full-stack software engineer. Before this, I was a researcher for international art organisations pursuing digital innovation in the cultural sector. Now, I am excited to pursue a career in building technological solutions for humanity's challenges. 
+A driven, fast-learning and multifaceted full-stack software engineer. Before this, I was a researcher for international art organisations pursuing digital innovation in the cultural sector. Now, I am excited to pursue a career in building technological solutions for humanity's pressing challenges. 
 
 
 ## Projects
@@ -9,8 +9,8 @@ A driven, fast-learning and multifaceted full-stack software engineer. Before th
 | ---------------------------- | ----------------- | ----------------- |
 | **Freeze**  | A web app for crowd-sourced reviews of cultural events. | Node.js, Express.js MongoDB |
 | **Bowlign Scorecard** | A command-line programme for a 10-pin bowling game scorecard. | Javascript  |
-| **Battleships** | A command-line programme for a multi-player battleships game. | Ruby |
 | **Game of Life** | A webpage that simulates Conway's Game of Life | Javascript, HTML |
+| **Battleships** | A command-line programme for a multi-player battleships game. | Ruby |
 
 
 ## Work Experience
@@ -42,9 +42,13 @@ _Curatorial Fellow_
 
 - I have the courage to approach any problem through a lense of practical innovation, and can follow through to overcome challenges during implementation. Curating a digital exhibition for the Britihs Council, I diverged from the pervasive OVR (Online Viewing Room) model and designed an interactive platform based on the tag & filter systems of retial websites. Under my leadership, our team of artistic advisors and digital designers were able to problem-solve each hurdle in producing a custom made platform. 
 
-#### Mentorship 
+#### Fast-Learning and Teaching 
 
-- An enthusiastic and driven fast-learner, I often find myself in the position of teaching my newly acquired skills to colleagues. During my time at Makers Academy, coursemates praised my ability to explain complex concepts to people of all skill-levels, thereby speeding up the implementation of our projects. For example, I was able to help my teammates quickly impelment new datatypes in SQL for a short four-day project building an Airbnb clone. 
+- An enthusiastic and ambitious fast-learner, I often find myself in the position of teaching newly acquired skills to colleagues. During my time at Makers Academy, coursemates praised my ability to explain complex concepts to people of all skill-levels, thereby speeding up the implementation of our projects. For example, I was able to help my teammates impelment new datatypes in SQL for a four-day project building an Airbnb clone. My ability to pick something up fast yet comprehensively helped push our project forward in a short time-frame, and the knowledge was transferred to all team members for future use.
+
+#### Rigorous Thinking 
+
+- I am not satisfied with something that just works, I want to know why; I'll always construct small experiments to test all my hypothesis, break and rebuild things to make sure I've understood all reasoning, and when one of my possible solutions achieves a goal, I'll set aside time to try the others. This means I'll learn a lot even from a small bug, raeching a deep and resourceful understanding that enables me to act with insight. 
 
 ## Education
 
