@@ -1,6 +1,6 @@
 ## Rita Aktay
 
-A driven, fast-learning and multifaceted full-stack software engineer. Before this, I was a researcher for international art organisations pursuing digital innovation in the cultural sector. Now, I am excited to pursue a career in building technological solutions for humanity's pressing challenges. 
+A driven, fast-learning and multifaceted full-stack software engineer. Before, I was a researcher for international art organisations pursuing digital innovation in the cultural sector. Now, I am excited to pursue a career in building technological solutions for humanity's pressing challenges. 
 
 
 ## Projects
@@ -59,7 +59,7 @@ _Curatorial Fellow_
 - Followed an EQ curriculum to improve communication and work better in teams, creating spaces where everyone can thrive and reach their best potential as programmers. 
 - Built a web application for crowd-sourced reviews of cultural events with MongoDB, Node.js and Express.js.
 - Built multiple command line applications including CRUD applications and games. 
-- Ruby, Javascript, Node, C#, SQL, MongoDB, RSpec, Jest, Bootstrap
+- Ruby, Javascript, Node, C#, SQL, MongoDB, RSpec, Jest, Bootstrap, Git.
 
 #### Goldmsiths University (September 2015 to September 2020)
 
@@ -71,13 +71,9 @@ _Curatorial Fellow_
 - First Classs Honors
 - Media Studies, Cultural Studies, Continental Philosiophy & Art Theory.
 
-#### Other Qualifications
-
-- DELE A2 Spanish Certificate 
-
 ## Interests
 
 - Tennis, swimming, running, wind-surf, sailing, and any outdoor sport!
-- Learning about psychology, history, philosophy, physics, economics and anything outside of my expertise. 
+- Learning about psychology, history, philosophy and anything outside of my expertise. 
 - Playing the bass guitar and discovering new music. 
 
