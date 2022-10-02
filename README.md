@@ -48,16 +48,17 @@ _Curatorial Fellow_
 
 #### Rigorous Thinking 
 
-- I am not satisfied with something that just works, I want to know why; I'll always construct small experiments to test all my hypothesis, break and rebuild things to make sure I've understood all reasoning, and when one of my possible solutions achieves a goal, I'll set aside time to try the others. This means I'll learn a lot even from a small bug, raeching a deep and resourceful understanding that enables me to act with insight. 
+- I am not satisfied with something that just works, I want to know why. When one possible solutions achieves a goal, I'll set aside time to try other approaches so I can compare and learn. I'll test all my hypothesis by breaking and rebuilding things. This means I'll learn a lot even from a small bug, raeching a deep and resourceful understanding that enables me to act with insight in the future.  
 
 ## Education
 
 #### Makers Academy (July 2022 to November 2022)
-- Learned Ruby, Javascript, SQL and C# to build full-stack web applications, whilst being language-agnostic and prioritising the ability to learn and apply new tech-stacks depending on the requirements of each brief. 
-- Applied industry best-practices to software projects, using TDD, pair programming, Agile teams and XP.
+- Learned Ruby, Javascript, SQL and C# to build full-stack web applications, whilst remaining language-agnostic and prioritising the ability to learn and apply new tech-stacks for the requirements of each brief. 
+- Applied industry best-practices to software projects using TDD with unit & integration testing.
+- Built news software daily with other porgrammers using pair programming, Git, Agile teams and XP techniques. 
 - Practiced fundamentals of OOD, implementing MVC architecture and building multi-class applications with low coupling and high coherence. 
 - Followed an EQ curriculum to improve communication and work better in teams, creating spaces where everyone can thrive and reach their best potential as programmers. 
-- Built a web application for crowd-sourced reviews of cultural events with MongoDB, Node.js and Express.js.
+- Built a full-stack web application for crowd-sourced reviews of cultural events with MongoDB, Node.js and Express.js.
 - Built multiple command line applications including CRUD applications and games. 
 - Ruby, Javascript, Node, C#, SQL, MongoDB, RSpec, Jest, Bootstrap, Git.
 
