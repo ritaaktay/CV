@@ -31,24 +31,10 @@ _Curator_
 - Worked with a digital design agency on the design of a custom platform to house the interactive exhibition experience.
 - Focused on digital accessibility for a global audience of over 1 million unique visitors. 
 
-**Golsmiths Center for Contemoirary Art** (January 2021 to January 2022)  
+**Golsmiths Center for Contemporary Art** (January 2021 to January 2022)  
 _Curatorial Fellow_
 
 - Assisted the Curator & Engagement Curator with all gallery programming spanning exhibitions, talks, screenings, workshops, performances, community events, publications, and an online channel. 
-
-## Skills
-
-#### Innovation
-
-- I have the courage to approach any problem through a lense of practical innovation, and can follow through to overcome challenges during implementation. Curating a digital exhibition for the Britihs Council, I diverged from the pervasive OVR (Online Viewing Room) model and designed an interactive platform based on the tag & filter systems of retial websites. Under my leadership, our team of artistic advisors and digital designers were able to problem-solve each hurdle in producing a custom made platform. 
-
-#### Fast-Learning and Teaching 
-
-- An enthusiastic and ambitious fast-learner, I often find myself in the position of teaching newly acquired skills to colleagues. During my time at Makers Academy, coursemates praised my ability to explain complex concepts to people of all skill-levels, thereby speeding up the implementation of our projects. For example, I was able to help my teammates impelment new datatypes in SQL for a four-day project building an Airbnb clone. My ability to pick something up fast yet comprehensively helped push our project forward in a short time-frame, and the knowledge was transferred to all team members for future use.
-
-#### Rigorous Thinking 
-
-- I am not satisfied with something that just works, I want to know why. When one possible solutions achieves a goal, I'll set aside time to try other approaches so I can compare and learn. I'll test all my hypothesis by breaking and rebuilding things. This means I'll learn a lot even from a small bug, raeching a deep and resourceful understanding that enables me to act with insight in the future.  
 
 ## Education
 
@@ -64,13 +50,27 @@ _Curatorial Fellow_
 
 #### Goldmsiths University (September 2015 to September 2020)
 
-- MFA in Curating
+##### **MFA in Curating**
 - First Class Honors
 - Arts and cultural management, mutli-media publishing and exhibition-making.
-
-- BA in Fine Art & History of Art
+         
+##### **BA in Fine Art & History of Art**
 - First Classs Honors
 - Media Studies, Cultural Studies, Continental Philosiophy & Art Theory.
+
+## Skills
+
+#### Innovation
+
+- I have the courage to approach any problem through a lense of practical innovation, and can follow through to overcome challenges during implementation. Curating a digital exhibition for the Britihs Council, I diverged from the pervasive OVR (Online Viewing Room) model and designed an interactive platform based on the tag & filter systems of retial websites. Under my leadership, our team of artistic advisors and digital designers were able to problem-solve each hurdle in producing a custom made platform. 
+
+#### Fast-Learning and Teaching 
+
+- An enthusiastic and ambitious fast-learner, I often find myself in the position of teaching newly acquired skills to colleagues. During my time at Makers Academy, coursemates praised my ability to explain complex concepts to people of all skill-levels, thereby speeding up the implementation of our projects. For example, I was able to help my teammates impelment new datatypes in SQL for a four-day project building an Airbnb clone. My ability to pick something up fast yet comprehensively helped push our project forward in a short time-frame, and the knowledge was transferred to all team members for future use.
+
+#### Rigorous Thinking 
+
+- I am not satisfied with something that just works, I want to know why. When one possible solutions achieves a goal, I'll set aside time to try other approaches so I can compare and learn. I'll test all my hypothesis by breaking and rebuilding things. This means I'll learn a lot even from a small bug, raeching a deep and resourceful understanding that enables me to act with insight in the future.  
 
 ## Interests
 
