@@ -8,6 +8,7 @@ A driven, fast-learning and multifaceted full-stack software engineer. Before, I
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Freeze**  | A web app for crowd-sourced reviews of cultural events. | Node.js, Express.js MongoDB |
+| **NYT Feed*** | A single page web-app for the latest news from the New York Times | TypeScript, Bootstrap |
 | **Bowlign Scorecard** | A command-line programme for a 10-pin bowling game scorecard. | Javascript  |
 | **Game of Life** | A webpage that simulates Conway's Game of Life | Javascript, HTML |
 | **Battleships** | A command-line programme for a multi-player battleships game. | Ruby |
@@ -46,7 +47,7 @@ _Curatorial Fellow_
 - Followed an EQ curriculum to improve communication and work better in teams, creating spaces where everyone can thrive and reach their best potential as programmers. 
 - Built a full-stack web application for crowd-sourced reviews of cultural events with MongoDB, Node.js and Express.js.
 - Built multiple command line applications including CRUD applications and games. 
-- Ruby, Javascript, Node, C#, SQL, MongoDB, RSpec, Jest, Bootstrap, Git.
+- Ruby, Javascript, TypeScript, Node, C#, SQL, MongoDB, RSpec, Jest, Bootstrap, Git.
 
 #### Goldmsiths University (September 2015 to September 2020)
 
