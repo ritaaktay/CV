@@ -8,7 +8,7 @@ A driven, fast-learning and multifaceted full-stack software engineer. Before, I
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Freeze**  | A web app for crowd-sourced reviews of cultural events. | Node.js, Express.js MongoDB |
-| **NYT Feed*** | A single page web-app for the latest news from the New York Times | TypeScript, Bootstrap |
+| **NYT Feed** | A single page web-app for the latest news from the New York Times | TypeScript, Bootstrap |
 | **Bowlign Scorecard** | A command-line programme for a 10-pin bowling game scorecard. | Javascript  |
 | **Game of Life** | A webpage that simulates Conway's Game of Life | Javascript, HTML |
 | **Battleships** | A command-line programme for a multi-player battleships game. | Ruby |
