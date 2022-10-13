@@ -15,7 +15,7 @@ A driven, sharp and multifaceted full-stack software engineer. Before, I was a r
 
 ## Work Experience
 
-**British Council** (January 2022 to October 2022)  
+**British Council** (January 2022 to October 2022)<br>  
 _Research Lead_
 
 - Lead the Online Collections research strand in an R&D project exploring the future of the British Council Collection as a digital resource for a global audience. 
@@ -24,13 +24,13 @@ _Research Lead_
 - Lead a team project with a university partner for the production of a prototype digital platform for the British Council Collection.
 - Interviewed industry professionals who have led digital transformations in institutions like Tate, Science Museum, Victoria and Albert Museum. 
 
-**British Council** (February 2021 to June 2021)
+**British Council** (February 2021 to June 2021)<br>
 _Curator_
 - Co-curated a digital exhibition platform for the 5th edition of British Council Turkey's Museum Without Walls, showcasing works from the British Council Collection and international artists.
 - Worked with a digital design agency on the design of a custom platform to house the interactive exhibition experience.
 - Focused on digital accessibility for a global audience of over 1 million unique visitors. 
 
-**Goldsmiths Centre for Contemporary Art** (January 2021 to January 2022)  
+**Goldsmiths Centre for Contemporary Art** (January 2021 to January 2022)<br>  
 _Curatorial Fellow_
 - Assisted the curators with all gallery programming spanning exhibitions, talks, screenings, workshops, performances, community events, publications, and an online multi-media content platform. 
 
