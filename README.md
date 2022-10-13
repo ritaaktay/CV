@@ -44,7 +44,7 @@ _Curatorial Fellow_
 - Followed an EQ curriculum to improve communication and work better in teams, creating spaces where everyone can thrive and reach their best potential as programmers. 
 - Built a full-stack web application for crowd-sourced reviews of cultural events with MongoDB, Node.js and Express.js.
 - Built multiple command line applications including CRUD applications and games. 
-- Ruby, Javascript, TypeScript, C#, SQL, MongoDB, RSpec, Jest, Cypress, Bootstrap, Git, CircleCI
+- Ruby, Javascript, TypeScript, C#, SQL, Postgres, MongoDB, RSpec, Jest, Cypress, Bootstrap, Git, CircleCI, HTTP and REST APIs. 
 
 #### Goldsmiths University (September 2015 to September 2020)
 
