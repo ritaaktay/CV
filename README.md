@@ -7,6 +7,7 @@ A driven and multifaceted full-stack software engineer, trained at Makers Academ
 
 | Name                         | Description       | Tech/Tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **Game of Games**  | A game engine and game of games. | Javascript, HTML, CSS |
 | **Freeze**  | A web app for crowd-sourced reviews of cultural events. | Node.js, Express.js MongoDB |
 | **NYT Feed** | A single page application for the latest news from the New York Times | TypeScript, Bootstrap |
 | **Game of Life** | A simulation of Conway's Game of Life | Javascript, HTML |
