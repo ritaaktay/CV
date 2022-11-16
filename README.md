@@ -37,7 +37,7 @@ _Curatorial Fellow_
 
 ## Education
 
-#### Makers Academy (July 2022 to November 2022)
+#### Makers Academy
 - Learned Ruby, Javascript, Typescript and C# to build full-stack web applications, whilst remaining language-agnostic and prioritising the ability to learn and apply new tech-stacks for the requirements of each brief. 
 - Applied industry best-practices to software projects using Test Driven Development with unit & integration testing.
 - Built news software daily with other programmers using pair programming, Git, Agile teams and XP techniques. 
@@ -47,7 +47,7 @@ _Curatorial Fellow_
 - Built multiple command line applications including CRUD applications and games. 
 - Ruby, Javascript, TypeScript, C#, SQL, Postgres, MongoDB, RSpec, Jest, Cypress, Bootstrap, Git, CircleCI, HTTP and REST APIs. 
 
-#### Goldsmiths University (September 2015 to September 2020)
+#### Goldsmiths University
 
 ##### **MFA in Curating**
 - First Class Honours
