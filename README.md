@@ -17,7 +17,7 @@ A driven, fast-learning full-stack software engineer. Before the career change, 
 ## Work Experience
 
 **British Council** (January 2022 to October 2022)<br>  
-_Research Lead_
+_Research and Development Lead_
 
 - Lead the Online Collections research strand in an R&D project exploring the future of the British Council Collection as a digital resource for a global audience. 
 - Wrote one of the four main sections of a 40,000 word report on implementations of digital-first infrastructures in the art sector.
