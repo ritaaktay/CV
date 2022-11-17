@@ -1,6 +1,6 @@
 ## Rita Aktay
 
-A driven and multifaceted full-stack software engineer, trained at Makers Academy. Before changing careers I was a researcher for international art organisations pioneering digital innovation. Now, I am excited to pursue a career in building technological solutions.
+A driven and fast-learning full-stack software engineer. Before changing careers I was a researcher for international art organisations pioneering digital innovation. Now, I am excited to pursue a career in building technological solutions. I value curiosity and perseverence and would love to work with people who are motivated by continous growth, hard problems and supprotive teams.
 
 
 ## Projects
