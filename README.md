@@ -1,5 +1,7 @@
 ## Rita Aktay
 
+[Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Skills](#skills) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/rita-aktay/) | [Blog](https://medium.com/@rita.aktay)
+
 A driven, fast-learning, full-stack software engineer. Before my career change I was an R&D consulant for art organisations pioneering digital innovation. Now I am excited to focus on building technological solutions first-hand. With curiosity and perseverence as my guiding values, I'm motivated by continous growth, solving hard problems and supportive teams.
 
 
