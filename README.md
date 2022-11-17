@@ -1,6 +1,6 @@
 ## Rita Aktay
 
-A driven, fast-learning full-stack software engineer. Before my career change I was an R&D consultatnt for art organisations pioneering digital innovation. Now I am excited to focus on building technological solutions. With curiosity and perseverence as my guiding values, I love working with people who are motivated by continous growth, hard problems and supprotive teams.
+A driven, fast-learning full-stack software engineer. Before my career change I was an R&D consultatnt for art organisations pioneering digital innovation. Now I am excited to focus on building technological solutions first-hand. With curiosity and perseverence as my guiding values, I love working with people who are motivated by continous growth, hard problems and supprotive teams.
 
 
 ## Projects
