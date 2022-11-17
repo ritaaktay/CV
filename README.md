@@ -1,6 +1,6 @@
 ## Rita Aktay
 
-A driven and fast-learning full-stack software engineer. Before changing careers I was a researcher for international art organisations pioneering digital innovation. Now, I am excited to pursue a career in building technological solutions. I value curiosity and perseverence and would love to work with people who are motivated by continous growth, hard problems and supprotive teams.
+A driven, fast-learning full-stack software engineer. Before the career change, I was an R&D consultatnt for art organisations pioneering digital innovation. Now, I am excited to focus on building technological solutions. I value curiosity and perseverence and would love to work with people who are motivated by continous growth, hard problems and supprotive teams.
 
 
 ## Projects
