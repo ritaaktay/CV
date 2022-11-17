@@ -62,6 +62,10 @@ _Curatorial Fellow_
 
 ## Skills
 
+#### Passion for Excellence
+
+- My passion for exellence is most visible in my dedication to code coverage. Since I discovered the Jest coverage report I've made sure not a single uncovered yellow line remains in any of my projects, however challenging it may prove. Having to type Jest auto mocks with TypeScript, or testing in group project sprints under high time pressure, I always made sure to put in extra effort to achieve 100% test coverage. Maintaining high-standards in what I do is a priority and feeds my ambition for delivering good results in engineering projects.
+
 #### Innovation and Follow-Through 
 
 - I have the courage to approach any problem through a lense of practical innovation and can follow through to overcome challenges during implementation. Curating a digital exhibition for the British Council, I diverged from the pervasive OVR (Online Viewing Room) model and designed an interactive platform based on the tag & filter systems of retail websites. Under my leadership, our team of artistic advisors and digital designers were able to overcome each blocker when producing a custom made platform. 
@@ -69,10 +73,6 @@ _Curatorial Fellow_
 #### Learning Fast and Teaching Others 
 
 - An enthusiastic and ambitious fast-learner, I often find myself in the position of teaching newly acquired skills to colleagues. During my time at Makers Academy, coursemates praised my ability to explain complex concepts to people of all skill-levels, thereby speeding up the implementation of our projects. For example, I was able to help my teammates implement new datatypes in SQL for a four-day project building an Airbnb clone. My ability to pick something up fast yet comprehensively helped push our project forward in a short time-frame.
-
-#### Passion for Excellence
-
-- My passion for exellence is most visible in my dedication to code coverage. Since I discovered the `jest --coverage` command I've made sure not a single uncovered yellow line of code remains in any of my projects, regardless of the challenges. Testing with TypeScript posed the difficulty of having to type tests, or working on group projects in short sprint cycles meant we did not have enough time for testing, but I always made sure to put in extra effort towards test coverage. Maintaining hihg-standards in what I do is important and feeds my ambition towards achieving good results in engineering projects.
 
 ## Interests
 
