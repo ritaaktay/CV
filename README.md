@@ -4,6 +4,8 @@
 
 A driven, fast-learning, full-stack software engineer. Before my career change I was an R&D consulant for art organisations pioneering digital innovation. Now I am excited to focus on building technological solutions first-hand. With curiosity and perseverence as my guiding values, I'm motivated by continous growth, solving hard problems and supportive teams.
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects
 
 | Name                         | Description       | Tech/Tools        |
@@ -73,5 +75,3 @@ _Curatorial Fellow_
 - 🎾  Training competitively in in tennis, swimming, running and sailing
 - 🧘  Mindfulness, meditation and personal development
 - 📚  Exploring different fields of knowledge (ex. Psychology, Neuroscience, Philosophy)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
