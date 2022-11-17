@@ -69,7 +69,7 @@ _Curatorial Fellow_
 
 ## Interests
 
-- 🎾  Training competitively in in tennis, swimming, running and sailing.
-- 🧘  Mindfulness, meditation and personal development.
-- 📚  Exploring different fields of knowledge (ex. Psychology, Neuroscience, Philosophy).
+- 🎾  Training competitively in in tennis, swimming, running and sailing
+- 🧘  Mindfulness, meditation and personal development
+- 📚  Exploring different fields of knowledge (ex. Psychology, Neuroscience, Philosophy)
 
