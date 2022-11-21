@@ -1,10 +1,10 @@
 ## Rita Aktay
 
-[LinkedIn](https://www.linkedin.com/in/rita-aktay/) | [Blog](https://medium.com/@rita.aktay) | [Projects](#projects) |  [Education](#education) | [Work Experience](#work-experience) | [Skills](#skills) | [Interests](#interests)
-
-A driven, fast-learning, full-stack software engineer. Before, I was an R&D consultant for art organisations pioneering digital innovation. Now, I am excited to focus on building technological solutions first-hand. With curiosity and perseverance as my guiding values, I'm motivated by continuous growth and hard problems.
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[LinkedIn](https://www.linkedin.com/in/rita-aktay/) | [Blog](https://medium.com/@rita.aktay) | [Projects](#projects) |  [Education](#education) | [Work Experience](#work-experience) | [Skills](#skills) | [Interests](#interests)\
+\
+A driven, fast-learning, full-stack software engineer. Before, I was an R&D consultant for art organisations pioneering digital innovation. Now, I am excited to focus on building technological solutions first-hand. With curiosity and perseverance as my guiding values, I'm motivated by continuous growth and hard problems.\
+\
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
 
 ## Projects
 
@@ -73,18 +73,22 @@ community events, publications, and an online multi-media content platform.
 
 #### Passion for Excellence
 
-- My passion for excellence is most visible in my dedication to code coverage. Since I discovered the Jest coverage report I've made sure not a single uncovered yellow line remains in any of my projects, however challenging it may prove. Having to type Jest auto mocks with TypeScript, or testing in group project sprints under high time pressure, I always made sure to put in extra effort to achieve 100% test coverage. Maintaining high-standards in what I do is a priority and feeds my ambition for delivering good results in engineering projects.
-
-#### Innovation and Follow-Through 
-
-- I have the courage to approach any problem through a lens of practical innovation and can follow through to overcome challenges during implementation. Curating a digital exhibition for the British Council, I diverged from the pervasive OVR (Online Viewing Room) model and designed an interactive platform based on the tag & filter systems of retail websites. Under my leadership, our team of artistic advisors and digital designers were able to overcome each blocker when producing a custom made platform. 
+- My passion for excellence is most visible in my dedication to Test Driven Development. Since I discovered the Jest coverage report, I've made sure there is not a single uncovered line left in any project - however challenging this may prove. Be it having to [type Jest mocks with TypeScript](https://medium.com/@rita.aktay/makers-mocking-typescript-jest-dc917f3db9f3), or testing during a group project sprint under high time pressure to deliver features, I always make sure to go the extra mile and achieve 100% code coverage. Maintaining high standards is a priority and feeds my ambition for delivering good results in engineering projects.
 
 #### Learning Fast and Teaching Others 
 
-- An enthusiastic and ambitious fast-learner, I often find myself in the position of teaching newly acquired skills to colleagues. During my time at Makers Academy, coursemates praised my ability to explain complex concepts to people of all skill-levels, thereby speeding up the implementation of our projects. For example, I was able to help my teammates implement new datatypes in SQL for a four-day project building an Airbnb clone. My ability to pick something up fast yet comprehensively helped push our project forward in a short time-frame.
+- A driven and enthusiastic fast-learner, I often find myself teaching newly acquired skills to colleagues. At Makers Academy, coursemates praised my ability to explain complex concepts to people of all skill-levels. During our final project building a [game engine](https://github.com/ritaaktay/game-of-games) with JavaScript, I was able to help my teammates advance their learning on asynchronous programming and callbacks in the browser. This was both personally rewarding, and allowed us to delegate tickets more evenly and improve efficiency in reaching our MVP.
+
+
+#### Innovation and Follow-Through 
+
+- I have the courage to approach any problem with innovation and follow through when challenges present themselves along the way. When I was curating [a digital exhibition](https://www.youtube.com/embed/LNAeUhAHJgQ?feature=oembed) for the British Council, I wanted to diverge from the pervasive Online Viewing Room model and design a unique interactive platform that matches the exhibition concept. Working with a team of artistic advisors, digital designers and collaborators, we were able to overcome each blocker and achieve our goals by championing curiosity and creative problem solving.
+
 
 ## Interests
 
-- 🎾  Training competitively in in tennis, swimming, running and sailing
-- 🧘  Mindfulness, meditation and personal development
-- 📚  Exploring different fields of knowledge (ex. Psychology, Neuroscience, Philosophy)
+🎾  Training competitively in in tennis, swimming, running and sailing\
+\
+🧘  Mindfulness, meditation and personal development\
+\
+📚  Exploring different fields of knowledge (ex. Psychology, Neuroscience, Philosophy)
