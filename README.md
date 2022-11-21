@@ -13,7 +13,7 @@ A driven, fast-learning, full-stack software engineer. Before, I was an R&D cons
 | [**Game of Games**](https://github.com/ritaaktay/game-of-games) | A game of games built with a custom game engine | JavaScript, HTML, CSS, Jest |
 | [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, like Facebook | Node.js, Express.js, MongoDB / Mongoose, Handlebars, Jest |
 | [**News Summary**](https://github.com/ritaaktay/news-summary) | A single-page application for the latest news from the New York Times | TypeScript, Bootstrap, Jest |
-| [**Makers BnB**](https://github.com/ritaaktay/makers-bnb) | A web application for acommodation bookings, like Airbnb. | Ruby, Sinatra, PostgreSQL, ERB, RSpec |
+| [**Makers BnB**](https://github.com/ritaaktay/makers-bnb) | A web application for accommodation bookings, like Airbnb. | Ruby, Sinatra, PostgreSQL, ERB, RSpec |
 | [**Game of Life**](https://github.com/ritaaktay/game-of-life) | A browser based simulation of Conway's Game of Life | JavaScript, HTML |
 
 
@@ -57,7 +57,7 @@ Jan 2022 - Sep 2022
 
 **British Council**\
 _Curator_\
-Feb 2021 - Jun 2021
+Feb 2021 - June 2021
 * Co-curated a [digital exhibition platform](https://www.youtube.com/embed/LNAeUhAHJgQ?feature=oembed) showcasing works from the British Council Collection alongside
 international artists from Turkey, India, Canada and Germany.
 * Worked with a digital design agency on developing a custom website to house the interactive exhibition.
@@ -73,11 +73,11 @@ community events, publications, and an online multi-media content platform.
 
 #### Passion for Excellence
 
-- My passion for exellence is most visible in my dedication to code coverage. Since I discovered the Jest coverage report I've made sure not a single uncovered yellow line remains in any of my projects, however challenging it may prove. Having to type Jest auto mocks with TypeScript, or testing in group project sprints under high time pressure, I always made sure to put in extra effort to achieve 100% test coverage. Maintaining high-standards in what I do is a priority and feeds my ambition for delivering good results in engineering projects.
+- My passion for excellence is most visible in my dedication to code coverage. Since I discovered the Jest coverage report I've made sure not a single uncovered yellow line remains in any of my projects, however challenging it may prove. Having to type Jest auto mocks with TypeScript, or testing in group project sprints under high time pressure, I always made sure to put in extra effort to achieve 100% test coverage. Maintaining high-standards in what I do is a priority and feeds my ambition for delivering good results in engineering projects.
 
 #### Innovation and Follow-Through 
 
-- I have the courage to approach any problem through a lense of practical innovation and can follow through to overcome challenges during implementation. Curating a digital exhibition for the British Council, I diverged from the pervasive OVR (Online Viewing Room) model and designed an interactive platform based on the tag & filter systems of retail websites. Under my leadership, our team of artistic advisors and digital designers were able to overcome each blocker when producing a custom made platform. 
+- I have the courage to approach any problem through a lens of practical innovation and can follow through to overcome challenges during implementation. Curating a digital exhibition for the British Council, I diverged from the pervasive OVR (Online Viewing Room) model and designed an interactive platform based on the tag & filter systems of retail websites. Under my leadership, our team of artistic advisors and digital designers were able to overcome each blocker when producing a custom made platform. 
 
 #### Learning Fast and Teaching Others 
 
