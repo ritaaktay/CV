@@ -1,8 +1,8 @@
 ## Rita Aktay
 
-[Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Skills](#skills) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/rita-aktay/) | [Blog](https://medium.com/@rita.aktay)
+[Projects](#projects) |  [Education](#education) | [Work Experience](#work-experience) | [Skills](#skills) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/rita-aktay/) | [Blog](https://medium.com/@rita.aktay) 
 
-A driven, fast-learning, full-stack software engineer. Before, I was an R&D consultant for art organisations pioneering digital innovation. Now I am excited to focus on building technological solutions first-hand. With curiosity and perseverance as my guiding values, I'm motivated by continuous growth and solving hard problems.
+A driven, fast-learning, full-stack software engineer. Before, I was an R&D consultant for art organisations pioneering digital innovation. Now, I am excited to focus on building technological solutions first-hand. With curiosity and perseverance as my guiding values, I'm motivated by continuous growth and hard problems.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,55 +10,63 @@ A driven, fast-learning, full-stack software engineer. Before, I was an R&D cons
 
 | Name                         | Description       | Tech/Tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Game of Games**  | A game engine and game of games. | Javascript, HTML, CSS |
+| **Game of Games**  | A game-engine for game of games. | JavaScript, HTML, CSS |
 | **Freeze**  | A web app for crowd-sourced reviews of cultural events. | Node.js, Express.js MongoDB |
 | **NYT Feed** | A single page application for the latest news from the New York Times | TypeScript, Bootstrap |
 | **Game of Life** | A simulation of Conway's Game of Life | Javascript, HTML |
 | **Battleships** | A command-line programme for a multi-player battleships game. | Ruby |
 
+## Education
+
+### Makers Academy
+
+#### **Full-Stack Software Engineering Bootcamp**
+* Learned JavaScript and Ruby in three months to build over ten projects including command line
+[applications](https://github.com/ritaaktay/battleships), social media [websites](https://github.com/ritaaktay/acebook) and platform [games](https://github.com/ritaaktay/game-of-games). Able to quickly learn and apply
+new tech stacks at a high standard.
+* Used PostgreSQL with Sinatra/Ruby and MongoDB/Mongoose with Express.js/Node.js to build
+RESTful APIs and CRUD web [applications](https://github.com/ritaaktay/makers-bnb/).
+* Finished curriculum materials with time to spare and learned TypeScript building a news website (link)
+consuming third party APIs.
+* Used TDD with comprehensive unit & integration testing to achieve complete code coverage. Frameworks
+used include Jest, RSpec and Cypress.
+* Built software in teams and weekly sprints using Agile, pair programming and Git/GitHub.
+* Practised fundamentals of OOP, learning and implementing SOLID design principles.
+
+### Goldsmiths University
+
+#### **MFA in Curating**
+* First Class Honors
+* Arts and Cultural Management
+         
+#### **BA in Fine Art & History of Art**
+* First Class Honors
+* Media Studies, Cultural Studies, Philosophy & Art Theory
 
 ## Work Experience
 
-**British Council** (January 2022 to October 2022)<br>  
-_Research and Development Lead_
+**British Council**\
+_Research and Development Lead_\
+Jan 2022 - Sep 2022
+* Lead the Online Collections research strand in an R&D project exploring the future of the [British Council Collection](http://visualarts.britishcouncil.org/collection) as a digital resource for a global audience.
+* Lead the production of a prototype digital platform with a team of post-graduate students at [Karma Mixed Reality Lab](https://karma.ku.edu.tr/en/karmalab).
+* Interviewed digital transformation leads in institutions like Tate Modern, Science Museum, British Museum, National Gallery and the V&A.
+* Applied UX research methodologies to online art platforms in order to improve their design with a user-first approach.
+* Wrote one of the main sections in a 40,000 word report on implementations of digital-first infrastructures in the art sector.
 
-- Lead the Online Collections research strand in an R&D project exploring the future of the British Council Collection as a digital resource for a global audience. 
-- Wrote one of the four main sections of a 40,000 word report on implementations of digital-first infrastructures in the art sector.
-- Applied UX research methodologies to online art platforms in order to improve their design with a user-first approach. 
-- Lead a team project with a university partner for the production of a prototype digital platform for the British Council Collection.
-- Interviewed industry professionals who have led digital transformations in institutions like Tate, Science Museum, Victoria and Albert Museum. 
+**British Council**\
+_Curator_\
+Feb 2021 - Jun 2021
+* Co-curated a [digital exhibition platform](https://www.youtube.com/embed/LNAeUhAHJgQ?feature=oembed) showcasing works from the British Council Collection alongside
+international artists from Turkey, India, Canada and Germany.
+* Worked with a digital design agency on developing a custom website to house the interactive exhibition.
+* Focused on digital accessibility for a global audience of over 1 million unique visitors.
 
-**British Council** (February 2021 to June 2021)<br>
-_Curator_
-- Co-curated a digital exhibition platform for the 5th edition of British Council Turkey's Museum Without Walls, showcasing works from the British Council Collection and international artists.
-- Worked with a digital design agency on the design of a custom platform to house the interactive exhibition experience.
-- Focused on digital accessibility for a global audience of over 1 million unique visitors. 
-
-**Goldsmiths Centre for Contemporary Art** (January 2021 to January 2022)<br>  
-_Curatorial Fellow_
-- Assisted the curators with all gallery programming spanning exhibitions, talks, screenings, workshops, performances, community events, publications, and an online multi-media content platform. 
-
-## Education
-
-#### Makers Academy
-- Learned Ruby, Javascript, Typescript and C# to build full-stack web applications, whilst remaining language-agnostic and prioritising the ability to learn and apply new tech-stacks for the requirements of each brief. 
-- Applied industry best-practices to software projects using Test Driven Development with unit & integration testing.
-- Built news software daily with other programmers using pair programming, Git, Agile teams and XP techniques. 
-- Practised fundamentals of Object Oriented Design, implementing MVC architecture and building multi-class applications with low coupling and high coherence. 
-- Followed an EQ curriculum to improve communication and work better in teams, creating spaces where everyone can thrive and reach their best potential as programmers. 
-- Built a full-stack web application for crowd-sourced reviews of cultural events with MongoDB, Node.js and Express.js.
-- Built multiple command line applications including CRUD applications and games. 
-- Ruby, Javascript, TypeScript, C#, SQL, Postgres, MongoDB, RSpec, Jest, Cypress, Bootstrap, Git, CircleCI, HTTP and REST APIs. 
-
-#### Goldsmiths University
-
-##### **MFA in Curating**
-- First Class Honours
-- Arts and cultural management, mutli-media publishing and exhibition-making.
-         
-##### **BA in Fine Art & History of Art**
-- First Class Honours
-- Media Studies, Cultural Studies, Philosophy & Art Theory.
+**Goldsmiths Center for Contemporary Art**\
+_Gallery Assistant_\
+Jan 2021 - Jan 2022
+* Assisted the curators with all gallery activities across exhibitions, talks, workshops, performances,
+community events, publications, and an online multi-media content platform.
 
 ## Skills
 
