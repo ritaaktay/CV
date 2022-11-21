@@ -10,11 +10,12 @@ A driven, fast-learning, full-stack software engineer. Before, I was an R&D cons
 
 | Name                         | Description       | Tech/Tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Game of Games**  | A game-engine for game of games. | JavaScript, HTML, CSS |
-| **Freeze**  | A web app for crowd-sourced reviews of cultural events. | Node.js, Express.js MongoDB |
-| **NYT Feed** | A single page application for the latest news from the New York Times | TypeScript, Bootstrap |
-| **Game of Life** | A simulation of Conway's Game of Life | Javascript, HTML |
-| **Battleships** | A command-line programme for a multi-player battleships game. | Ruby |
+| [**Game of Games**](https://github.com/ritaaktay/game-of-games) | A game of games built with a custom game engine | JavaScript, HTML, CSS, Jest |
+| [**Acebook**](https://github.com/ritaaktay/acebook)  | A social media web application, like Facebook | Node.js, Express.js, MongoDB / Mongoose, Handlebars, Jest |
+| [**News Summary**](https://github.com/ritaaktay/news-summary) | A single-page application for the latest news from the New York Times | TypeScript, Bootstrap, Jest |
+| [**Makers BnB**](https://github.com/ritaaktay/makers-bnb) | A web application for acommodation bookings, like Airbnb. | Ruby, Sinatra, PostgreSQL, ERB, RSpec |
+| [**Game of Life**](https://github.com/ritaaktay/game-of-life) | A browser based simulation of Conway's Game of Life | JavaScript, HTML |
+
 
 ## Education
 
