@@ -4,7 +4,7 @@
 \
 A fast-learning full-stack software engineer —driven by curiosity and motivated by solving complex problems. Before, I was an R&D consultant for cultural organisations pioneering digital innovation. Now, I am excited to focus on building technological solutions first-hand.\
 \
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
