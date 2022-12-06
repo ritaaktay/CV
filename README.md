@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/rita-aktay/) | [Blog](https://medium.com/@rita.aktay) | [Projects](#projects) |  [Education](#education) | [Work Experience](#work-experience) | [Skills](#skills) | [Interests](#interests)\
 \
-A driven, fast-learning, full-stack software engineer. Before, I was an R&D consultant for art organisations pioneering digital innovation. Now, I am excited to focus on building technological solutions first-hand. With curiosity and perseverance as my guiding values, I'm motivated by continuous growth and hard problems.\
+A fast-learning full-stack software engineer —driven by curiosity and motivated by solving complex problems. Before, I was an R&D consultant for cultural organisations pioneering digital innovation. Now, I am excited to focus on building technological solutions first-hand.\
 \
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritaaktay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
 
